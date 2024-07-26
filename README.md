@@ -32,7 +32,7 @@
 📫 Contact Me At **yohivana794@gmail.com**
 
 <h5>
-  🔗 Know more About me on <a href="https://linkedin.com/in/shouryasaxena" target="_blank">LinkedIn</a>
+  🔗 Know more About me on <a href="https://www.linkedin.com/in/kenmegne-yoh-ivana-marina-a656a92a0/" target="_blank">LinkedIn</a>
 </h5>
 
 <hr/>
