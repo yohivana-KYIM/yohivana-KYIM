@@ -2,8 +2,9 @@
 
 <hr/>
 
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KENMEGNE YOH IVANA MARINA!;Mern+Stack+Developer+Laravel|Vue js💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KENMEGNE+YOH+IVANA+MARINA!;Mern+Stack+Developer+Laravel+💻;" />
 </h1>
 
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
