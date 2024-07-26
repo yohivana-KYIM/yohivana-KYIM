@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">🚀 Welcome to my GitHub universe! 🚀</h4>
-<h2 align="center">👋 I'm KENMEGNE YOH IVANA MARINA, a passionate MERN stack developer and coding enthusiast from India🌍!</h2>
+<h2 align="center">👋 I am KENMEGNE YOH IVANA MARINA, a passionate MERN stack developer and coding enthusiast from Cameroon🌍!</h2>
 
 <br/>
 
@@ -27,11 +27,9 @@
 <p align="left"> 
 🌟 Innovation Architect 🛠️
 </p>
-<p align="left"> 
-🎮 Coding Maverick 🕹️
-</p>
 
-📫 Contact Me At **saxenshourya000@gmail.com**
+
+📫 Contact Me At **yohivana794@gmail.com**
 
 <h5>
   🔗 Know more About me on <a href="https://linkedin.com/in/shouryasaxena" target="_blank">LinkedIn</a>
@@ -47,17 +45,17 @@
 <h2 align="center">🎨 Frontend 🎨</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,materialui"/>
-    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite"/>
+    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite,vue"/>
 </div>
 
 <h2 align="center">⚙️ Backend ⚙️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,django,nginx,redis,kafka,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,laravel" />
 </div>
 
 <h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,docker,kubernetes,aws,firebase,appwrite,postman,laravel" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,docker,kubernetes,aws,firebase,appwrite,postman,wakatime" />
 </div>
 <br/>
 
@@ -91,8 +89,3 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+Us!+💖;Let's+Connect!+🚀;" />
 </h1>
 
-
-<!---
-SaxenaShourya/SaxenaShourya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
