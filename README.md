@@ -44,8 +44,8 @@
 
 <h2 align="center">🎨 Frontend 🎨</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,materialui"/>
-    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite,vue"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,materialui"/>
+    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite,vuejs"/>
 </div>
 
 <h2 align="center">⚙️ Backend ⚙️</h2>
@@ -55,7 +55,7 @@
 
 <h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,docker,kubernetes,aws,firebase,appwrite,postman,wakatime" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,postman,wakatime" />
 </div>
 <br/>
 
@@ -78,7 +78,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SaxenaShourya&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SaxenaShourya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SaxenaShourya&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KENMEGNE&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
